@@ -1,0 +1,28 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Node modules
+/node_modules/
+
+# Tailwind CSS build output
+/dist/
+
+# System files
+.DS_Store
+
+# History and temporary files
+.history/
+*.tmp
+*.log
+
+# Hugo environment files
+.env
+.env.*
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Other
+*.bak

@@ -1,0 +1,10 @@
+description: "The Hacking and Coffee blog"
+copyrightHolder: "Hon1nbo"
+
+hero:
+  image: "images/hero.jpg"
+  title: "Hacking and Coffee"
+  subtitle: "The Hacking and Coffee blog"
+
+contactData:
+  email: ""

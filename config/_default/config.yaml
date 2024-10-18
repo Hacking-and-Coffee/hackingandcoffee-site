@@ -1,0 +1,18 @@
+title: "Hacking and Coffee"
+languageCode: "en-us"
+timeZone: "America/Chicago"
+theme: "hackingandcoffee"
+
+module:
+  hugoVersion:
+    extended: true
+
+permalinks:
+  post: /posts/:year/:month/:day/:slug/
+  tag: /tags/:slug/
+  category: /categories/:slug/
+  author: /authors/:slug/
+  page: /:slug/
+  project: /projects/:slug/
+  talk: /talks/:slug/
+  artwork: /gallery/:slug/

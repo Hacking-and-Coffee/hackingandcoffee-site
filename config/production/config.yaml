@@ -1,0 +1,6 @@
+baseURL: "https://hackingand.coffee"
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# Production-specific configurations
