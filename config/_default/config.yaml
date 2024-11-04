@@ -1,18 +1,27 @@
 title: "Hacking and Coffee"
 languageCode: "en-us"
 timeZone: "America/Chicago"
-theme: "hackingandcoffee"
+theme: "hackingandcoffee-live"
+
+ignoreFiles:
+  - "content/README\\.md$"
+  - "content/.*/README\\.md$"
 
 module:
   hugoVersion:
     extended: true
 
 permalinks:
-  post: /posts/:year/:month/:day/:slug/
-  tag: /tags/:slug/
+  posts: /posts/:year/:month/:day/:slug/
+  tags: /tags/:slug/
   category: /categories/:slug/
   author: /authors/:slug/
   page: /:slug/
   project: /projects/:slug/
   talk: /talks/:slug/
   artwork: /gallery/:slug/
+
+outputs:
+  home: ["HTML", "RSS", "Atom", "JSON"]
+  section: ["HTML", "RSS", "Atom", "JSON"]
+  taxonomy: ["HTML", "RSS", "Atom", "JSON"]

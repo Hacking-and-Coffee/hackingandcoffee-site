@@ -2,35 +2,38 @@ main:
   - name: "Posts"
     url: /posts/
     weight: 1
+  - name: "About"
+    url: /about/
+    weight: 2
   - name: "Projects"
     url: /projects/
-    weight: 2
+    weight: 3
   - name: "Talks"
     url: /talks/
-    weight: 3
+    weight: 4
   - name: "Artwork"
     url: /gallery/
-    weight: 4
+    weight: 5
 
 footer:
   - name: "Posts"
     url: /posts/
     weight: 1
+  - name: "About"
+    url: /about/
+    weight: 2
   - name: "Projects"
     url: /projects/
-    weight: 2
+    weight: 3
   - name: "Talks"
     url: /talks/
-    weight: 3
+    weight: 4
   - name: "Artwork"
     url: /gallery/
-    weight: 4
+    weight: 5
 
 
 bottom:
-  - name: "Privacy Policy"
-    url: /privacy-policy/
-    weight: 1
   - name: "RSS"
     url: /index.xml
     weight: 1
