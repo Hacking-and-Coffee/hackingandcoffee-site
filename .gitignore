@@ -5,9 +5,6 @@
 # Node modules
 /node_modules/
 
-# Tailwind CSS build output
-/dist/
-
 # System files
 .DS_Store
 
@@ -26,3 +23,6 @@
 
 # Other
 *.bak
+
+# Theme for development
+themes/hackingandcoffee-live/
