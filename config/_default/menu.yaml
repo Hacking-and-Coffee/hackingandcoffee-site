@@ -8,12 +8,12 @@ main:
   - name: "Projects"
     url: /projects/
     weight: 3
-  - name: "Talks"
-    url: /talks/
-    weight: 4
-  - name: "Artwork"
-    url: /gallery/
-    weight: 5
+  #- name: "Talks"
+  #  url: /talks/
+  #  weight: 4
+  #- name: "Artwork"
+  #  url: /gallery/
+  #  weight: 5
 
 footer:
   - name: "Posts"
@@ -25,21 +25,18 @@ footer:
   - name: "Projects"
     url: /projects/
     weight: 3
-  - name: "Talks"
-    url: /talks/
-    weight: 4
-  - name: "Artwork"
-    url: /gallery/
-    weight: 5
+  #- name: "Talks"
+  #  url: /talks/
+  #  weight: 4
+  #- name: "Artwork"
+  #  url: /gallery/
+  #  weight: 5
 
 
 bottom:
   - name: "RSS"
     url: /index.xml
     weight: 1
-  - name: "Atom"
-    url: /atom.xml
-    weight: 2
-  - name: "JSON"
-    url: /index.json
-    weight: 3
+  #- name: "JSON"
+  #  url: /index.json
+  #  weight: 3
