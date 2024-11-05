@@ -1,0 +1,3 @@
+imports:
+  - path: "github.com/Hacking-and-Coffee/hackingandcoffee-content"
+  - path: "github.com/Hacking-and-Coffee/hackingandcoffee-theme"

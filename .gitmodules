@@ -1,6 +1,0 @@
-[submodule "content"]
-	path = content
-	url = https://github.com/0xDezzy/hackingandcoffee-content
-[submodule "themes/hackingandcoffee"]
-	path = themes/hackingandcoffee
-	url = https://github.com/0xDezzy/hackingandcoffee-theme
