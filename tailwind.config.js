@@ -6,6 +6,9 @@ module.exports = {
   content: [
     './layouts/**/*.html',
     './content/**/*.md',
+    './themes/hackingandcoffee/layouts/**/*.html',
+    './themes/hackingandcoffee/layouts/**/**/*.html',
+    './themes/hackingandcoffee/layouts/**/**/**/*.html',
     './themes/hackingandcoffee-live/layouts/**/*.html',
     './themes/hackingandcoffee-live/layouts/**/**/*.html',
     './themes/hackingandcoffee-live/layouts/**/**/**/*.html',
