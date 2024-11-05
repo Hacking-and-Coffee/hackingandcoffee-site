@@ -4,24 +4,10 @@ Welcome to the Hacking and Coffee Site repository. This site is built using Hugo
 
 ## Submodules
 
-This project uses Git submodules for managing the content and theme. To initialize and update these submodules, run the following commands:
+This project uses Hugo modules for managing the content and theme. To update these run the following command:
 
 ```bash
-git submodule init
-git submodule update
-```
-
-or when cloning the repo use the following command:
-
-```bash
-git clone --recurse-submodules https://github.com/0xDezzy/hackingandcoffee-site
-```
-
-To update the submodules manually, navigate to the submodule directory and pull the latest changes:
-
-```bash
-cd path/to/submodule
-git pull origin main
+hugo mod get -u ./...
 ```
 
 ## Development Environment
