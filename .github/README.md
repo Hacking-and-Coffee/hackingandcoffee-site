@@ -27,7 +27,7 @@ npm install
 To start the development server with Tailwind CSS and Hugo, use the following command:
 
 ```bash
-npm run dev
+npm run hugo:server
 ```
 
 This command will start the Hugo server and watch for changes in your files, automatically rebuilding the site and refreshing your browser.
@@ -37,7 +37,7 @@ This command will start the Hugo server and watch for changes in your files, aut
 To build the site for production, you need to generate the static files using Hugo. Run the following command:
 
 ```bash
-npm run build
+npm run hugo:build
 ```
 
 This will create a `public` directory with the optimized static files ready for deployment.
