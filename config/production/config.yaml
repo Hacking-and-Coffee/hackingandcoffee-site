@@ -1,4 +1,4 @@
-baseURL: "https://0xdezzy.github.io/hackingandcoffee-site"
+baseURL: "https://hackingand.coffee"
 buildDrafts: false
 buildFuture: false
 buildExpired: false
