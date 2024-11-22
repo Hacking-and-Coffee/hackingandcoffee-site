@@ -1,4 +1,5 @@
 baseURL: "https://staging.hackingand.coffee"
+theme: "github.com/Hacking-and-Coffee/hackingandcoffee-theme"
 buildDrafts: false
 buildFuture: false
 buildExpired: false

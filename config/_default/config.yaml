@@ -1,7 +1,6 @@
 title: "Hacking and Coffee"
 languageCode: "en-us"
 timeZone: "America/Chicago"
-theme: "github.com/Hacking-and-Coffee/hackingandcoffee-theme"
 
 ignoreFiles:
   - "content/README\\.md$"

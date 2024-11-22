@@ -1,4 +1,5 @@
 baseURL: "http://localhost:1313"
+theme: "hackingandcoffee-live"
 buildDrafts: true
 buildFuture: true
 buildExpired: true
