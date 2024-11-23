@@ -26,6 +26,12 @@ github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122204909-c89
 github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122204909-c893a5d81834/go.mod h1:i1ab22kRYDvqsPDMhLkKfgMa23lObrQ/UKMVAN+TQEI=
 github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122205650-643ce0ca38ca h1:GZBrZz142Gbh4uqf3b5yjYVLloBXcdi+geO9aODtbYU=
 github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122205650-643ce0ca38ca/go.mod h1:i1ab22kRYDvqsPDMhLkKfgMa23lObrQ/UKMVAN+TQEI=
+github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122211108-76ebf2223b2e h1:EKrHqdGR9dsgpD/8KJ+WnXNDC0Bhwv6kAPF67u4JnMg=
+github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122211108-76ebf2223b2e/go.mod h1:i1ab22kRYDvqsPDMhLkKfgMa23lObrQ/UKMVAN+TQEI=
+github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122211533-eff8da3d2683 h1:/SJDPP0nuCoAEuBlxZBaCk4R4dva8FyQtvFE0mHBhCs=
+github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122211533-eff8da3d2683/go.mod h1:i1ab22kRYDvqsPDMhLkKfgMa23lObrQ/UKMVAN+TQEI=
+github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122213239-e061b0dbb7f7 h1:dKh1dQGfHvinWq6XIQrXzD9sUxFMd0MjBhlHBs4CYzQ=
+github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122213239-e061b0dbb7f7/go.mod h1:i1ab22kRYDvqsPDMhLkKfgMa23lObrQ/UKMVAN+TQEI=
 github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241105000059-e9a60ed90396 h1:X2HlAaaaoSPNdQfDInL2Ex12S9YMQnYf1MnPS/iAU5U=
 github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241105000059-e9a60ed90396/go.mod h1:/2bA0ebNLptZqQ6lSTcWk6M5YEBsYj4nZj93iN0b8uM=
 github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241105004020-d8824bbd071a h1:fvc4bRaNAFALJ3nB3k3/NhPIzBEEIfOrZDXLONyEUrQ=
@@ -42,3 +48,5 @@ github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241122205203-97a51
 github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241122205203-97a51a978518/go.mod h1:/2bA0ebNLptZqQ6lSTcWk6M5YEBsYj4nZj93iN0b8uM=
 github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241122210007-a3476029729f h1:5vgNUwAosL/OiOnOz6CRdMzORzjt1sI81g/zDR36dqc=
 github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241122210007-a3476029729f/go.mod h1:/2bA0ebNLptZqQ6lSTcWk6M5YEBsYj4nZj93iN0b8uM=
+github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241122211608-252228592f60 h1:IvgoQCBqIjAUzz3bhFaDuiAw5AfMcIDNmLrSZIiYFps=
+github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241122211608-252228592f60/go.mod h1:/2bA0ebNLptZqQ6lSTcWk6M5YEBsYj4nZj93iN0b8uM=

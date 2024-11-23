@@ -3,6 +3,6 @@ module github.com/Hacking-and-Coffee/hackingandcoffee-site
 go 1.23.1
 
 require (
-	github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122205650-643ce0ca38ca // indirect
-	github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241122210007-a3476029729f // indirect
+	github.com/Hacking-and-Coffee/hackingandcoffee-content v0.0.0-20241122213239-e061b0dbb7f7 // indirect
+	github.com/Hacking-and-Coffee/hackingandcoffee-theme v0.0.0-20241122211608-252228592f60 // indirect
 )
