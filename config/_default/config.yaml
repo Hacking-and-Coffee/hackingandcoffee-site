@@ -16,7 +16,8 @@ permalinks:
   category: /categories/:slug/
   author: /authors/:slug/
   page: /:slug/
-  project: /projects/:slug/
+  services: /services/:slug/
+  privacy: /privacy/:slug/
   talk: /talks/:slug/
   artwork: /gallery/:slug/
 
