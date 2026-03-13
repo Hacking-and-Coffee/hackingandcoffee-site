@@ -5,9 +5,12 @@ main:
   - name: "About"
     url: /about/
     weight: 2
-  - name: "Projects"
-    url: /projects/
+  - name: "Services"
+    url: /services/
     weight: 3
+  - name: "Privacy"
+    url: /privacy/
+    weight: 4
   #- name: "Talks"
   #  url: /talks/
   #  weight: 4
